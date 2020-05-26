@@ -1,0 +1,7 @@
+directory,Number of Labels,Success Rate,True Postive / True Negative,False Postive / False Negative,Processing time,
+Real-Time_Speaker_Recognition,20,0,"[0, 0]","[20, 0]",,
+Real-Time_Speaker_Recognition,20,0,"[0, 0]","[20, 0]",,
+Real-Time_Speaker_Recognition,20,0,"[0, 0]","[20, 0]",0.622522116,0.031126106
+Real-Time_Speaker_Recognition,5,0,"[0, 0]","[5, 0]",0.61126256,0.122252512
+Real-Time_Speaker_Recognition,5,0.0,"[0, 0]","[5, 0]",0.6945221424102783
+Real-Time_Speaker_Recognition,5,0.0,"[0, 0]","[5, 0]",-1.9199271202087402

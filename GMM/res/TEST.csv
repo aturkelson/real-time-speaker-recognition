@@ -1,0 +1,3 @@
+directory,Number of Labels,Success Rate,True Postive / True Negative,False Postive / False Negative,Processing time
+DR1,49,0.7448979591836735,"[73, 0]","[25, 0]",0.16253924369812012
+DR1,49,0.7448979591836735,"[73, 0]","[25, 0]",0.13564348220825195

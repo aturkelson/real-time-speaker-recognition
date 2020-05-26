@@ -1,0 +1,5 @@
+directory,Number of Labels,Success Rate,True Postive / True Negative,False Postive / False Negative
+Real-Time_Speaker_Recognition,20,0.4,"[8, 0]","[12, 0]"
+Real-Time_Speaker_Recognition,20,0.55,"[11, 0]","[9, 0]"
+Real-Time_Speaker_Recognition,20,0.25,"[5, 0]","[15, 0]"
+Real-Time_Speaker_Recognition,20,0.75,"[15, 0]","[5, 0]"

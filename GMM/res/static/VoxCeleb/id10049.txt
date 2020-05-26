@@ -1,0 +1,6 @@
+Analysis of id10049
+Characteristics : 10 labels, 752427 features in total.
+Success rate : 0.7669902912621359
+[True Positive, True Negative] : [79, 0]
+[False Positive, False Negative] : [24, 0]
+Failed [expected, obtained] : [['id10040', 'id10043'], ['id10040', 'id10046'], ['id10040', 'id10046'], ['id10041', 'id10044'], ['id10041', 'id10044'], ['id10041', 'id10044'], ['id10041', 'id10044'], ['id10043', 'id10044'], ['id10043', 'id10044'], ['id10044', 'id10046'], ['id10044', 'id10041'], ['id10044', 'id10041'], ['id10046', 'id10044'], ['id10046', 'id10044'], ['id10046', 'id10044'], ['id10046', 'id10044'], ['id10046', 'id10044'], ['id10046', 'id10044'], ['id10046', 'id10041'], ['id10046', 'id10041'], ['id10046', 'id10041'], ['id10048', 'id10041'], ['id10048', 'id10041'], ['id10048', 'id10041']]
